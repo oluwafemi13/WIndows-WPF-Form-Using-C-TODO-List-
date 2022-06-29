@@ -1,0 +1,14 @@
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\bin\Debug\ApplicationToDo.exe.config
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\bin\Debug\ApplicationToDo.exe
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\bin\Debug\ApplicationToDo.pdb
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.Properties.Resources.resources
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.csproj.GenerateResource.cache
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.exe
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.pdb
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.Application.resources
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.FormAddToDo.resources
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Decagon\Documents\C# PERSONAL PRACTICE\2019\ApplicationToDo\ApplicationToDo\obj\Debug\ApplicationToDo.csproj.CopyComplete
